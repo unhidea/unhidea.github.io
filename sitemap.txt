@@ -1,5 +1,6 @@
 
 http://unhidea.github.io/atom.xml
+http://unhidea.github.io/ideas/idea
 http://unhidea.github.io/
 http://unhidea.github.io/rss.xml
 http://unhidea.github.io/sitemap.txt
