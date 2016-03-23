@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-        <title>Unhidea</title>
-        <description>Unhidea - Aaron wwf</description>
+        <title>global.title</title>
+        <description>global.title - Aaron wwf</description>
         <link>http://unhidea.github.io</link>
         <atom:link href="http://unhidea.github.io/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Wed, 09 Mar 2016 08:26:34 +0800</lastBuildDate>
-        <pubDate>Wed, 09 Mar 2016 08:26:34 +0800</pubDate>
+        <lastBuildDate>Wed, 23 Mar 2016 09:45:13 +0800</lastBuildDate>
+        <pubDate>Wed, 23 Mar 2016 09:45:13 +0800</pubDate>
         <ttl>60</ttl>
 
 
